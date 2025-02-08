@@ -60,7 +60,7 @@ Compared to vision-based solutions that require the hand to stay within the came
 Unlike 9-axis IMU solutions, this solution is not affected by magnetic field-related factors.
 
 ## Wearability
-Only two steps are needed: put on the glove and secure the velcro around the wrist. 
+Only two steps are needed: put on the glove and secure the Velcro around the wrist. 
 
 To accommodate different hand sizes, several standard elastic glove sizes are available. Finger thickness does not affect the fit; instead, the glove aims to match different finger lengths as closely as possible.
 
@@ -69,13 +69,45 @@ Based on a single glove
 
 | Categories                          | Price (USD) |  Note                        |
 | ----------------------------------- | ----------- |------------------------------|
-| IMU Chips                           | 9.3         | Based on Taobao retail price |
+| IMU Chips                           | 7.3         | Based on Taobao retail price |
 | MCU, BLE Chips                      | 2.5         | Based on Taobao retail price |
-| Other ICs and Electronic Components | 3.5         | Estimated                    |
+| Other ICs and Electronic Components | 4.5         | Estimated                    |
 | PCB, FPC                            | 2.0         | Estimated                    |
 | Enclosure and Protective Structure  | 2.8         | Estimated                    |
 | Specialized Fabric Gloves           | 4.2         | Estimated                    |
-| Assembly                            | 0.7         | Estimated                    |
+| Assembly and otheres                | 1.7         | Estimated                    |
 | Total                               | 25.0        |                              |
 
-Note: The values are calculated in RMB and then converted into USD based on the information and exchange rate as of November 1, 2024.
+Note: The values are calculated in RMB and then converted into USD based on the information and exchange rate as of February 8, 2025.
+
+Timeline
+========
+| Time            | Event       |
+| --------------- | ----------- |
+| 2016.05         | Started **Mastery** project. |
+| 2016.10         | Developed the initial prototype, integrating industry-standard algorithms with an optimized sensor layout. At this stage, its performance surpassed all known similar solutions worldwide. |
+| 2018.01         | Completed a major hardware architecture update. |
+| 2019.03         | Completed major updates to software architecture and algorithms. |
+| 2019.05         | Completed the [**2019-milestone prototype**](https://youtu.be/w4YGIjqZUME), achieving motion capture performance that surpassed all known hand-tracking solutions at the time. |
+| 2019.08         | Conceived a breakthrough approach to bypass the principle-based solution, significantly reducing material costs. |
+| 2019.11         | Founded **Matrix Realm Tech (Hangzhou) Ltd** to further develop **Mastery**. |
+| 2020.01-2021.11 | Refined hardware with enhanced industrial design and completely restructured the software architecture. |
+| 2021.12         | Gained deeper theoretical insights into algorithms, leading to an initial solution for hand differences among users. |
+| 2022.01-2024.01 | Worked on resolving production challenges and explored methods to reduce sensor material costs, though initial attempts were unsuccessful. |
+| 2024.05         | Through extensive research, gained deeper expertise in IMU technology and mathematics, leading to significant improvements in both algorithms and hardware. |
+| 2024.10         | Completed the [**2024-milestone prototype**](https://youtu.be/a5aWQXh2FL0), which perfectly validated the original mathematical theory and algorithm. This breakthrough eliminated the inherent flaws of the original approach while drastically reducing costs. |
+
+Developer
+=========
+
+**Li ZiQi** – Founder of **Matrix Realm Tech (Hangzhou) Ltd**.
+
+Graduated with a bachelor's degree in Measurement and control technology and instruments from Chongqing University (CQU) in 2014, ranked 1st in overall performance. 
+
+Expert in Human-Computer Interaction (HCI) with a strong foundation in mathematics, physics, and biology as they relate to HCI. Full-stack engineer with deep technical expertise in building and optimizing interactive systems.
+
+Company
+=======
+**Matrix Realm Tech (Hangzhou) Ltd.**
+
+**源域科技（杭州）有限公司**
