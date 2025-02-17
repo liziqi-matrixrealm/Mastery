@@ -11,7 +11,11 @@ Note: the display hardware itself is limited to a maximum refresh rate of 60Hz.
 
 Overview
 ========
-Built on 6-axis IMU along with proprietary hardware and software algorithms, this solution captures nearly all detailed movements of the human hand with high precision, all while keeping manufacturing costs low. It enables users to interact in VR environments in the most natural, effortless, and comfortable way possible, approaching the ideal for VR hand interaction control.
+Powered by **6-axis IMUs** along with **proprietary hardware and software algorithms**, **Mastery** captures nearly all **detailed movements** of the human hand with **high precision**, all while keeping **manufacturing costs low**. It enables users to interact in VR environments in the most **natural, effortless, and comfortable** way possible, approaching the ideal for VR hand interaction control.
+
+Unlike traditional controllers that rely on buttons, joysticks, and must be held, **Mastery** unlocks a new era of interaction by fully harnessing the hand’s natural movement. Just as smartphones replaced keypads with multi-touch screens, **Mastery** is revolutionizing VR control, making interactions more **intuitive, precise, and boundlessly versatile**.
+
+Moreover, the **glove form factor** provides the ideal platform for a **haptic feedback system**(currently featuring vibration motors).
 
 Weight
 ======
@@ -25,7 +29,7 @@ Features
 ========
 
    * [High Degree of Freedom](#Degrees-of-Freedom)
-   * [Precision](#Precision)
+   * [High Precision](#High-Precision)
    * [Low Latency](#Latency)
    * [Self-Calibration](#Self-Calibration)
    * [Pinch Detection](#Pinch-Detection)
@@ -36,7 +40,7 @@ Features
 ## Degrees of Freedom
 Academically, the full range of motion of the hand is generally categorized as having 21 degrees of freedom (excluding the wrist) or 27 degrees of freedom (including the wrist). This solution truly encompasses the complete range of motion of the human hand, including numerous joint degrees of freedom often simplified or ignored in academic studies, resulting in unmatched detail-tracking capabilities.
 
-## Precision
+## High Precision
 Hand motion capture is an extremely complex system, and currently, no standard method exists to quantitatively measure error or to compare this solution quantitatively with others. By qualitatively analyzing the rendering results alongside recordings of real movements, it is apparent that this solution achieves a level of precision that far surpasses any known alternatives.
 
 ## Latency
