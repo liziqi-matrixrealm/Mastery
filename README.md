@@ -29,7 +29,7 @@ Features
 ========
 
    * [High Degree of Freedom](#Degrees-of-Freedom)
-   * [High Precision](#High-Precision)
+   * [High Precision](#Precision)
    * [Low Latency](#Latency)
    * [Self-Calibration](#Self-Calibration)
    * [Pinch Detection](#Pinch-Detection)
@@ -40,7 +40,7 @@ Features
 ## Degrees of Freedom
 Academically, the full range of motion of the hand is generally categorized as having 21 degrees of freedom (excluding the wrist) or 27 degrees of freedom (including the wrist). This solution truly encompasses the complete range of motion of the human hand, including numerous joint degrees of freedom often simplified or ignored in academic studies, resulting in unmatched detail-tracking capabilities.
 
-## High Precision
+## Precision
 Hand motion capture is an extremely complex system, and currently, no standard method exists to quantitatively measure error or to compare this solution quantitatively with others. By qualitatively analyzing the rendering results alongside recordings of real movements, it is apparent that this solution achieves a level of precision that far surpasses any known alternatives.
 
 ## Latency
@@ -61,7 +61,9 @@ With the support of dedicated hardware, this technology enables accurate single-
 Compared to vision-based solutions that require the hand to stay within the camera's field of view and involve relatively larger pinch movements, this solution significantly enhances user experience and reduces user fatigue.
 
 ## Stability
-Unlike 9-axis IMU solutions, this solution is not affected by magnetic field-related factors.
+Unlike 9-axis IMU solutions, this solution is not affected by magnetic field-related factors. 
+
+Clearly, it is also immune to issues such as lighting and visual occlusion.
 
 ## Wearability
 Only two steps are needed: put on the glove and secure the Velcro around the wrist. 
