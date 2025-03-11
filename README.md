@@ -11,11 +11,13 @@ Note: the display hardware itself is limited to a maximum refresh rate of 60Hz.
 
 Overview
 ========
-Powered by **6-axis IMUs** along with **proprietary hardware and software algorithms**, **Mastery** captures nearly all **detailed movements** of the human hand with **high precision**, all while keeping **manufacturing costs low**. It enables users to interact in VR environments in the most **natural, effortless, and comfortable** way possible, approaching the ideal for VR hand interaction control.
+Powered by **6-axis IMUs** along with **proprietary hardware and software algorithms**, **Mastery** captures nearly all **detailed movements** of the human hand with **high precision**, all while keeping **manufacturing costs low**. This enables users to interact in 3D environments in the most **natural, effortless, and comfortable** way possible.
 
-Unlike traditional controllers that rely on buttons, joysticks, and must be held, **Mastery** unlocks a new era of interaction by fully harnessing the hand’s natural movement. Just as smartphones replaced keypads with multi-touch screens, **Mastery** is revolutionizing VR control, making interactions more **intuitive, precise, and boundlessly versatile**.
+The **glove form** provides an ideal platform for the **haptic feedback system** and **haptic sensing system** (currently featuring vibration motors).
 
-Moreover, the **glove form factor** provides the ideal platform for a **haptic feedback system**(currently featuring vibration motors).
+For **computer 3D interaction**, unlike traditional controllers that rely on buttons, joysticks, and require handheld use, the device fully leverages natural hand movements, opening a new era of interaction. Just as smartphones replaced physical buttons with multi-touch screens, it makes interaction more **intuitive, precise, and truly unleashes infinite imagination for interaction**.
+
+For **embodied intelligence**, **Mastery** is the perfect device for collecting **AI data for dexterous hands**, capable of generating **high-quality multi-modal real hand interaction data** in bulk.
 
 Weight
 ======
