@@ -15,7 +15,7 @@ Powered by **6-axis IMUs** along with **proprietary hardware and software algori
 
 The **glove form** provides an ideal platform for the **haptic feedback system** and **haptic sensing system** (currently featuring vibration motors).
 
-For **computer 3D interaction**, unlike traditional controllers that rely on buttons, joysticks, and require handheld use, the device fully leverages natural hand movements, opening a new era of interaction. Just as smartphones replaced physical buttons with multi-touch screens, it makes interaction more **intuitive, precise, and truly unleashes infinite imagination for interaction**.
+For **computer 3D interaction**, unlike traditional controllers that rely on buttons, joysticks, and require handheld use, the device fully leverages natural hand movements, opening a new era of interaction. Just as smartphones replaced physical buttons with multi-touch screens, **Mastery** makes interaction more **intuitive, precise, and truly unleashes infinite imagination for interaction**.
 
 For **embodied intelligence**, **Mastery** is the perfect device for collecting **AI data for dexterous hands**, capable of generating **high-quality multi-modal real hand interaction data** in bulk.
 
@@ -63,7 +63,9 @@ With the support of dedicated hardware, this technology enables accurate single-
 Compared to vision-based solutions that require the hand to stay within the camera's field of view and involve relatively larger pinch movements, this solution significantly enhances user experience and reduces user fatigue.
 
 ## Stability
-Unlike 9-axis IMU solutions, this solution is not affected by magnetic field-related factors. 
+Unlike 9-axis IMU solutions, this solution is not affected by magnetic field-related factors.
+
+Compared to electromagnetic solutions, this solution is not affected by metal-related products in the environment.
 
 Clearly, it is also immune to issues such as lighting and visual occlusion.
 
